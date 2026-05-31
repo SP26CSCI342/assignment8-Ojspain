@@ -1,5 +1,5 @@
 // server/server.js
-// Assignment 7 — Express backend for PlateScout.
+// Assignment 8 — Express backend for PlateScout.
 // Now backed by MongoDB Atlas (via Mongoose) with bcrypt-hashed passwords
 // and JWT-based session tokens.
 
